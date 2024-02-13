@@ -1,0 +1,1 @@
+This repository is a collection of projects 4 (AVL Trees), 5 (Tries), and 6 (Hashing) from Wright State University's Data Structures and Algorithms class. These projects are not perfect, but they were very fun to work on!
